@@ -19,7 +19,7 @@
     "predeploy": "npm run build:all",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "https://rayhansoe.github.io/Star-Match-Game/",
   "jest": {
     "modulePaths": [
       "./src"
